@@ -1,0 +1,25 @@
+Store,David's Quick Mart
+TaxCategory,Beverage,
+TaxCategory,Food,
+Cashier,1,David,N/A,405.348.1111,password1
+Cashier,2,Sally,N/A,405.348.2222,password2
+Item,1001,{},Turkey Sandwich,Food,
+Item,1002,{},Ham Sandwich,Food,
+Item,1003,{},Coke,Beverage,
+Item,1004,{},Dr. Pepper,Beverage,
+Register,1
+Register,2
+Session,1,2
+Sale,true
+SaleLineItem,1001,1
+SaleLineItem,1002,2
+Sale,false
+SaleLineItem,1003,2
+SaleLineItem,1004,1
+Session,2,1
+Sale,false
+SaleLineItem,1001,1
+SaleLineItem,1003,2
+Sale,false
+SaleLineItem,1002,2
+SaleLineItem,1004,1

@@ -1,0 +1,29 @@
+Store,David's Quick Mart
+TaxCategory,Food,0.07,10/10/16
+TaxCategory,Beverage,0,10/10/16
+Cashier,1,David,111-11-1111,1 1st Street,Edmond,OK,73034,405.348.1111,password1
+Cashier,2,Sally,222-22-2222,2 2nd Street,Edmond,OK,73034,405.348.2222,password2
+Item,1001,11111111111,Turkey Sandwich,Food,2.59,10/10/17,2.29,09/30/18,11/30/18
+Item,1002,22222222222,Ham Sandwich,Food,2.59,10/10/17
+Item,1003,33333333333,Coke,Beverage,0.97,10/10/17,0.79,09/10/18,10/10/18
+Item,1004,44444444444,Dr. Pepper,Beverage,0.97,10/10/17,0.79,10/30/18,11/20/18
+Register,1
+Register,2
+Session,1,2
+Sale,True
+SaleLineItem,1001,1
+SaleLineItem,1002,2
+Payment,Cash,7.99,10.00
+Sale,False
+SaleLineItem,1003,2
+SaleLineItem,1004,1
+Payment,Credit,2.91,2.91,MC,1111222244445550,10/01/25
+Session,2,1
+Sale,False
+SaleLineItem,1001,1
+SaleLineItem,1003,2
+Payment,Cash,4.23,5.00
+Sale,False
+SaleLineItem,1002,2
+SaleLineItem,1004,1
+Payment,Check,6.15,6.15,1010101010,111111111,1001
